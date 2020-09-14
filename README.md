@@ -1,1 +1,0 @@
-# jamstack-intro-basic
